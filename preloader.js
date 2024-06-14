@@ -38,7 +38,7 @@ function hideOverlay() {
         renderer: 'svg', // ou 'canvas' se preferir
         loop: true,
         autoplay: true,
-        path: 'https://natsuoo.github.io/preloaderJSLottie/coploy_loading.json',
+        path: 'https://natsuoo.github.io/preloaderJSLottie/Ou1ProZAIe.json',
     });
 }
 
